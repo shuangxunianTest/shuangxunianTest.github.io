@@ -1,11 +1,10 @@
 #------------------------
 # Header config
-title: 网站标题
-author: 作者名
-# 将你的qq替换上去即可让网站的头像显示你为你qq的头像
-logo_img: https://q2.qlogo.cn/headimg_dl?dst_uin=你的qq&spec=5
-author_img: https://q2.qlogo.cn/headimg_dl?dst_uin=你的qq&spec=5
-author_description: 描述
+title: 霜序廿的个人博客
+author: 霜序廿
+logo_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2749909223&spec=5
+author_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2749909223&spec=5
+author_description: 一个喜欢算法的小前端
 #------------------------
 # Navbar config
 #------------------------
@@ -201,7 +200,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://github.com/shuangxunian/shuangxunian.github.io
+  repo: https://github.com/shuangxunianTest/shuangxunianTest.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
